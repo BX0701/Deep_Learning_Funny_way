@@ -7,10 +7,15 @@ Learn Deep Learning by simple way, hooray!!!
 
 **Usage**: Within each topic, there will be multiple issues for discussion, and I have divided them into individual subfolders.
 Folder
+
 |--- Subfolder
+
 |    |--- Note.pdf (The handwritten theory file)
+
 |    |--- Code.ipynb (The illustrative code) 
+
 |--- Subfolder
+
 ....
 
 ### From Linear Regression to Logistic Regression (Binary classification)
