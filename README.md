@@ -10,9 +10,9 @@ Folder
 
 |--- Subfolder
 
-|    |--- Note.pdf (The handwritten theory file)
+|---|--- Note.pdf (The handwritten theory file)
 
-|    |--- Code.ipynb (The illustrative code) 
+|---|--- Code.ipynb (The illustrative code) 
 
 |--- Subfolder
 
