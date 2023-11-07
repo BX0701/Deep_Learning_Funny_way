@@ -7,7 +7,7 @@ Learn Deep Learning by simple way, hooray!!!
 
 **Usage**: Within each topic, there will be multiple issues for discussion, and I have divided them into individual subfolders.
 
-Folder
+Main Folder
 
 |--- Subfolder
 
